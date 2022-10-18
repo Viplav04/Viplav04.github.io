@@ -2398,6 +2398,61 @@ input, select, textarea {
 		background-position: top left, center center;
 	}
 
+	#ruchi {
+		background: url("images/overlay.png"), url("../../images/ruchi.jpeg");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left;
+	}
+
+/* Two */
+
+	#poonam {
+		background: url("images/overlay.png"), url("../../images/poonam.jpeg");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+
+	#shivam {
+		background: url("images/overlay.png"), url("../../images/shivam.jpeg");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left;
+	}
+
+/* Two */
+
+	#bhanvi {
+		background: url("images/overlay.png"), url("../../images/bhanvi.jpeg");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+
+	#yatin {
+		background: url("images/overlay.png"), url("../../images/yatin.jpeg");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left;
+	}
+
+/* Two */
+
+	#kritika {
+		background: url("images/overlay.png"), url("../../images/kritika.jpeg");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+
+	#geetu {
+		background: url("images/overlay.png"), url("../../images/geetu.jpeg");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left;
+	}
+
 /* Contact */
 
 	#contact {
